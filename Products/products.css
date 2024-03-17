@@ -1,0 +1,39 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px ;
+    width: 1100px;
+    height: 250px;
+    padding: 10px;
+   margin-bottom: 40px;
+    font-size: 20px;
+    font-style: oblique;
+    
+ 
+}
+
+.sub-products{
+    display: flex;
+    border: 1px solid black;
+    float: left;
+    width: 200px;
+    height: 150px;
+    padding: 40px;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-style: oblique;
+    
+
+}
+
+.head{
+        text-align:center; 
+        width:200px ;
+         border : 1px solid black; 
+         background-image: url();
+         justify-content: center;
+         display: flex;
+         margin: 20px;
+    }
